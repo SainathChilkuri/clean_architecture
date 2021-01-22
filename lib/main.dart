@@ -11,6 +11,8 @@ import 'generated/l10n.dart';
 
 void main() async {
   //Development Branch
+  //features
+  //new feature
   WidgetsFlutterBinding.ensureInitialized();
   await di.init();
   runApp(App());
